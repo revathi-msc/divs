@@ -1,0 +1,45 @@
+div{
+    background-color: lightpink;
+    height:50px;
+    width: 675px;
+    text-align: center;
+    text-shadow: 30px;
+    font-size: 50px;
+    font-weight: bold;
+    color: purple;
+}
+
+.beast{
+ background-color: lightpink;
+ height:500px;
+ width: 675px;
+ border-bottom: 30px;
+ text-align: center;
+ 
+}
+h1{
+    color: purple;
+    font-family: sans-serif;
+    padding-left: 30px;
+    margin-top: 5%;
+}
+h2{
+    color: purple;
+    font-family: sans-serif;
+    padding-left: 30px;
+}
+.highlight{
+    background: purple;
+    color: red;
+    font-family:sans-serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+p{
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    padding-left: 20px;
+    position: relative;
+}
